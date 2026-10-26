@@ -7,23 +7,23 @@
 ## ✨ Features
 
 - 🚀 **Interactive Project Showcase**
-  - Featured section highlighting Full-Stack Java applications, AI agent tools, and modern web apps
+  - Featured section highlighting Full-Stack Java applications, AI agent tools, and modern web apps.
 - ⚡ **Technical Skills Matrix**
-  - Categorized breakdown of Core Java, Spring Boot, React, Node.js, Python, SQL/NoSQL databases, and DevOps tools
+  - Categorized breakdown of Core Java, Spring Boot, React, Node.js, Python, SQL/NoSQL databases, and DevOps tools.
 - 📜 **Experience & Education Timeline**
-  - Chronological timeline detailing academic credentials, software engineering achievements, and certifications
+  - Chronological timeline detailing academic credentials, software engineering achievements, and certifications.
 - 📧 **Contact & Social Connect**
-  - Interactive contact form, direct email links, GitHub profile, and LinkedIn integrations
+  - Interactive contact form, direct email links, GitHub profile, and LinkedIn integrations.
 - 🔍 **SEO & Performance Optimized**
-  - Built-in `sitemap.xml`, OpenGraph meta tags, `robots.txt`, and light/dark theme optimization
+  - Built-in `sitemap.xml`, OpenGraph meta tags, `robots.txt`, and light/dark theme optimization.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, Vanilla JavaScript (ES6+), CSS3 (Flexbox/Grid, Glassmorphism, CSS Animations)
-- **Icons & Fonts**: Google Fonts, FontAwesome / Boxicons
-- **SEO**: Structured Meta Tags, XML Sitemap, OpenGraph Schema
+- **Frontend**: HTML5, Vanilla JavaScript (ES6+), CSS3 (Flexbox/Grid, Glassmorphism, CSS Animations).
+- **Icons & Fonts**: Google Fonts, FontAwesome / Boxicons.
+- **SEO**: Structured Meta Tags, XML Sitemap, OpenGraph Schema.
 
 ---
 
@@ -36,7 +36,7 @@
    ```
 
 2. **Launch Site**:
-   Open `index.html` in any web browser or serve via Live Server
+   Open `index.html` in any web browser or serve via Live Server.
 
 ---
 
